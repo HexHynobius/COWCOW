@@ -1,0 +1,1554 @@
+fileFormatVersion: 2
+guid: faaa89d1fc92c574d9cb67c76b07e5bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c056cbf0452c0f43b03f3373b35e0fc
+      internalID: 793297761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7202d3357af6d48af12262e0f814a0
+      internalID: 760723563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 217
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e5901356e5f7e43af264237037d227
+      internalID: 494122187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ea383e4e1afa47a766db6bafe8861
+      internalID: -1341248272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0968fd67b0fb4f9abbb3898f42961
+      internalID: -1472039961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3733eb530749274b941aa25f159bb37
+      internalID: -1795024911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e6e8d6aa6b654fb172a5f0f8ee495
+      internalID: -1616700483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 217
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0cc64bb9a37974890a501dac8bff1f
+      internalID: 1734848322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 217
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2417d8bb4eb8c241a2bc4c29c7a7acf
+      internalID: -600307976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f27ec8ea13472743b3f1d834fb5a7c2
+      internalID: 747500385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b7bb2240795d4790855f6e7ba9298
+      internalID: 533956900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f14b6d89b5894392919ba4f314733
+      internalID: -855524314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a113eb8a09f9c74db2e39e8963755b3
+      internalID: 289831674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 217
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88dc6613114dd4095d5d8e78106e62
+      internalID: -344082277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 217
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17121f3fd0eda44d85bf6ccde4face0
+      internalID: 1910817604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 217
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23876e0d163ac140bfc5f6563609917
+      internalID: 224381585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288be43f9b514c140996742b9814b472
+      internalID: 56272354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 145
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9815d11dda7e6224dafea7066419ae16
+      internalID: 893107095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 145
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bfe61459bd21842b1ed38be0333f1f
+      internalID: -2115331774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71493e1bb9b4f47a7f1bac82cbbef1
+      internalID: -925424352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be684e568281f0a47be91973f2f5d655
+      internalID: 1963202451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c891b6c107e6848a44677a85c5a408
+      internalID: 1611770249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096fb6d77d0b4c04b9e6c19996bbd87a
+      internalID: 337344169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 145
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d3ad25be5cf64a8c795753583fbd4
+      internalID: -847915067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 145
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13357a376d134b541affd63d57b1f92e
+      internalID: 432838851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_25
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d6888a8666a44d996ee5cc4b3b012
+      internalID: -1051896708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24f58222495014aac2d51ae107c4bd
+      internalID: -58589955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_27
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ade26c1aa734047bd2e8b99e55f3e9
+      internalID: 265201718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b85cbae8959b234791ef9f8dd43b8dd
+      internalID: -260843221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 145
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b49bb420732ab4ba5dd882429c3af0
+      internalID: 1402793606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_30
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 145
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b63fbc0673bb541b04a15e94549e08
+      internalID: -1255252082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_31
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 145
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3dbcf36a92c904eafddafbf0ccba3a
+      internalID: 1402477520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af39512ce7fd040a9851cbfc554b52
+      internalID: 1584493849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350cf1fbd7b8ed4a8164d39fdbe6ae5
+      internalID: -283461776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f337e31adf5b41aa34fd89bec41b0
+      internalID: 538763227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2c8b492ae7f547b1ce22f81b859a6
+      internalID: 1738032957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a247fb5189dbd49b0e1f1b29c247f6
+      internalID: -1845945347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d5be73b18bd842a90dd2a8643ee61
+      internalID: -1503299918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_38
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f494f8f799ddb48ad8a1ffdc2498eb
+      internalID: 175293417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 72
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f10a9295f11684abb100a96e9f56c5
+      internalID: 228085388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 72
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af78fdc756630341996c0aef6cf999d
+      internalID: 315805224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f0042dc778a942ab97443baad3df4
+      internalID: 1540999242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf0874611c8c34e8be9ea45cc29ba3
+      internalID: 1969129501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f2ce240bf9e04d822dfe63ad56bf4
+      internalID: -704894150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_44
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2d715d87f1024e9027c9ca595f422
+      internalID: 264660363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_45
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 72
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d273abaedd6246b5acf41306ec4f8
+      internalID: 2136812561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_46
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 72
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76375dc70a08db14eb133b73613b0dca
+      internalID: 1474824059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 72
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b81cf85130cd418d04f6d6901d38a
+      internalID: -1982925549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3219d5652ae22f41bc9d38b83a77d1b
+      internalID: -1067003487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a05a257bee934e42a0babfb802f2ca7
+      internalID: -253329649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88abe3a02fba92a40be7eca5859991e5
+      internalID: -852388318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc2cda745bb204886eef93607c8c11
+      internalID: 440119841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b129c2f6bb9f1498f3bb3f83e812be
+      internalID: 709193279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56758660077a65644a63697ebb300c0e
+      internalID: -1611412642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7205685fd41469745b873821a6a621f0
+      internalID: 612314981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075797ca32e28ce40afce4496709ca98
+      internalID: 1478681245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34f9b4bfa076d4981b24b43c50e1f1
+      internalID: 1646744947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_57
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5fbf092d975444ab2340a4b74d845c
+      internalID: -1622485602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_58
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c942adf07de642b63d147af7fc2f5
+      internalID: 343875282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_59
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16a36306778124e8d2f433671e5844
+      internalID: 75539340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_60
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d4e39aade3f2e4e99737ec7a05796b
+      internalID: -445341419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_61
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4589d89b377a784dbfef4e616337b01
+      internalID: 1928771428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_62
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b582909d667740882afb10bd4321c
+      internalID: -1431321395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_poker-cards-png_1974415 1_63
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728afc4391f7baa489770501a66f3804
+      internalID: 135295632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_poker-cards-png_1974415 1_11: -855524314
+      NicePng_poker-cards-png_1974415 1_53: -1611412642
+      NicePng_poker-cards-png_1974415 1_41: 1540999242
+      NicePng_poker-cards-png_1974415 1_12: 289831674
+      NicePng_poker-cards-png_1974415 1_21: 1611770249
+      NicePng_poker-cards-png_1974415 1_50: -852388318
+      NicePng_poker-cards-png_1974415 1_0: 793297761
+      NicePng_poker-cards-png_1974415 1_37: -1503299918
+      NicePng_poker-cards-png_1974415 1_43: -704894150
+      NicePng_poker-cards-png_1974415 1_18: -2115331774
+      NicePng_poker-cards-png_1974415 1_28: -260843221
+      NicePng_poker-cards-png_1974415 1_2: 494122187
+      NicePng_poker-cards-png_1974415 1_32: 1584493849
+      NicePng_poker-cards-png_1974415 1_22: 337344169
+      NicePng_poker-cards-png_1974415 1_29: 1402793606
+      NicePng_poker-cards-png_1974415 1_30: -1255252082
+      NicePng_poker-cards-png_1974415 1_20: 1963202451
+      NicePng_poker-cards-png_1974415 1_31: 1402477520
+      NicePng_poker-cards-png_1974415 1_15: 224381585
+      NicePng_poker-cards-png_1974415 1_5: -1795024911
+      NicePng_poker-cards-png_1974415 1_23: -847915067
+      NicePng_poker-cards-png_1974415 1_4: -1472039961
+      NicePng_poker-cards-png_1974415 1_47: -1982925549
+      NicePng_poker-cards-png_1974415 1_56: 1646744947
+      NicePng_poker-cards-png_1974415 1_59: 75539340
+      NicePng_poker-cards-png_1974415 1_48: -1067003487
+      NicePng_poker-cards-png_1974415 1_61: 1928771428
+      NicePng_poker-cards-png_1974415 1_14: 1910817604
+      NicePng_poker-cards-png_1974415 1_38: 175293417
+      NicePng_poker-cards-png_1974415 1_7: 1734848322
+      NicePng_poker-cards-png_1974415 1_44: 264660363
+      NicePng_poker-cards-png_1974415 1_49: -253329649
+      NicePng_poker-cards-png_1974415 1_24: 432838851
+      NicePng_poker-cards-png_1974415 1_6: -1616700483
+      NicePng_poker-cards-png_1974415 1_26: -58589955
+      NicePng_poker-cards-png_1974415 1_16: 56272354
+      NicePng_poker-cards-png_1974415 1_3: -1341248272
+      NicePng_poker-cards-png_1974415 1_17: 893107095
+      NicePng_poker-cards-png_1974415 1_13: -344082277
+      NicePng_poker-cards-png_1974415 1_8: -600307976
+      NicePng_poker-cards-png_1974415 1_34: 538763227
+      NicePng_poker-cards-png_1974415 1_57: -1622485602
+      NicePng_poker-cards-png_1974415 1_39: 228085388
+      NicePng_poker-cards-png_1974415 1_52: 709193279
+      NicePng_poker-cards-png_1974415 1_60: -445341419
+      NicePng_poker-cards-png_1974415 1_51: 440119841
+      NicePng_poker-cards-png_1974415 1_40: 315805224
+      NicePng_poker-cards-png_1974415 1_63: 135295632
+      NicePng_poker-cards-png_1974415 1_55: 1478681245
+      NicePng_poker-cards-png_1974415 1_10: 533956900
+      NicePng_poker-cards-png_1974415 1_19: -925424352
+      NicePng_poker-cards-png_1974415 1_36: -1845945347
+      NicePng_poker-cards-png_1974415 1_9: 747500385
+      NicePng_poker-cards-png_1974415 1_35: 1738032957
+      NicePng_poker-cards-png_1974415 1_27: 265201718
+      NicePng_poker-cards-png_1974415 1_62: -1431321395
+      NicePng_poker-cards-png_1974415 1_1: 760723563
+      NicePng_poker-cards-png_1974415 1_25: -1051896708
+      NicePng_poker-cards-png_1974415 1_42: 1969129501
+      NicePng_poker-cards-png_1974415 1_45: 2136812561
+      NicePng_poker-cards-png_1974415 1_58: 343875282
+      NicePng_poker-cards-png_1974415 1_33: -283461776
+      NicePng_poker-cards-png_1974415 1_46: 1474824059
+      NicePng_poker-cards-png_1974415 1_54: 612314981
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
